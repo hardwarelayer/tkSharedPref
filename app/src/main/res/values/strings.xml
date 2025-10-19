@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">tkSharedPref</string>
+    <string name="app_name">i18n UI test</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">i18n UI test</string>
+    <string name="current_language">Current Language: %1$s</string>
+    <string name="login_button">Login</string>
+    
+    <!-- Example Screen -->
+    <string name="example_title">Example Screen</string>
+    <string name="example_input_hint">Enter some text</string>
+    <string name="example_button">Submit</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Language Settings</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="restart_required">Please restart the app to apply language changes</string>
+    <string name="settings_saved">Settings saved successfully</string>
 </resources>

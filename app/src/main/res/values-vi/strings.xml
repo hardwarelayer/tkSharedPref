@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">i18n UI test</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">i18n UI test</string>
+    <string name="current_language">Ngôn ngữ hiện tại: %1$s</string>
+    <string name="login_button">Đăng nhập</string>
+    
+    <!-- Example Screen -->
+    <string name="example_title">Màn hình ví dụ</string>
+    <string name="example_input_hint">Nhập văn bản</string>
+    <string name="example_button">Gửi</string>
+    <string name="back_to_login">Quay lại đăng nhập</string>
+    <string name="settings">Cài đặt</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Cài đặt ngôn ngữ</string>
+    <string name="select_language">Chọn ngôn ngữ</string>
+    <string name="english">English</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="save_settings">Lưu cài đặt</string>
+    <string name="restart_required">Vui lòng khởi động lại ứng dụng để áp dụng thay đổi ngôn ngữ</string>
+    <string name="settings_saved">Đã lưu cài đặt thành công</string>
+</resources>
